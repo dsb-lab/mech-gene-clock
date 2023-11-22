@@ -1,4 +1,4 @@
-# mech-gene-clock
+# Parametric modeling of mechanical effects on circadian oscillators
 This model describes a genetic clock that considers inputs from mechanical sources. A modified Goodwin model is used to describe the relationship between clock genes Bmal1 and Rev-ErbA. Bmal1 mRNA activates the transcription of Rev-ErbA mRNA, which then produces Rev-ErbA protein, which circles back and represses the expression of Bmal1 mRNA. This three-part loop allows for oscillatory behavior with regular 24 hour periods for the mRNA and protein of Bmal1 and Rev-ErbA. The model was compared to experimental results from Abenza et al. 2023.
 
 This repository contains jupyter notebooks for the different versions of the model, as well as further analyses.
